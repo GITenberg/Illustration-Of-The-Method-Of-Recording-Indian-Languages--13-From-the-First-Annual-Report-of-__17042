@@ -1,0 +1,45 @@
+_repo: Illustration-Of-The-Method-Of-Recording-Indian-Languages--13-From-the-First-Annual-Report-of-__17042
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Dorsey, James Owen
+    alias: Dorsey, J. Owen (James Owen)
+    birthdate: 1848
+    deathdate: 1895
+    gutenberg_agent_id: '7103'
+    url: http://www.gutenberg.org/2009/agents/7103
+  - agent_name: Riggs, Stephen Return
+    alias: Riggs, S. R. (Stephen Return)
+    birthdate: 1812
+    deathdate: 1883
+    gutenberg_agent_id: '7105'
+    url: http://www.gutenberg.org/2009/agents/7105
+  - agent_name: Gatschet, Albert S. (Albert Samuel)
+    aliases:
+    - Gatschet, Albert Samuel
+    - Gatschet, A. S. (Albert Samuel)
+    birthdate: 1832
+    deathdate: 1907
+    gutenberg_agent_id: '7104'
+    url: http://www.gutenberg.org/2009/agents/7104
+description: ''
+gutenberg_bookshelf:
+- Native America
+- Language Education
+gutenberg_issued: '2005-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Languages'
+- !lcc 'E011'
+title: "Illustration of the Method of Recording Indian Languages\r\nFrom the First\
+  \ Annual Report of the Bureau of Ethnology, Smithsonian Institution"
+url: http://www.gutenberg.org/ebooks/17042
