@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '7104'
     url: http://www.gutenberg.org/2009/agents/7104
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17042#Illustration-Of-The-Method-Of-Recording-Indian-Languages--13-From-the-First-Annual-Report-of-_
 gutenberg_bookshelf:
 - Native America
 - Language Education
